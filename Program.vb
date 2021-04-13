@@ -4,8 +4,6 @@ Imports GemBox.Pdf.Forms
 
 Module Program
     Sub Main(args As String())
-        'Using limited key here leads to "Free version limitation has been exceeded (Free version is limited to 2 pages). ..." error. 
-        'Bug reproducible with normal key
         ComponentInfo.SetLicense("FREE-LIMITED-KEY")
         TestNullRefenceException()
 
@@ -29,8 +27,5 @@ Module Program
         End Using
         Return 0
     End Function
-
-
-
 
 End Module
