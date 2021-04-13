@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NullRefenceException", "NullRefenceException.vbproj", "{38B89AB2-A192-4D66-87E5-D902B8D8F48D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38B89AB2-A192-4D66-87E5-D902B8D8F48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38B89AB2-A192-4D66-87E5-D902B8D8F48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38B89AB2-A192-4D66-87E5-D902B8D8F48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38B89AB2-A192-4D66-87E5-D902B8D8F48D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D5211D-707A-4D10-8195-23F3DF2F52A0}
+	EndGlobalSection
+EndGlobal
